@@ -1,0 +1,26 @@
+{
+  "name": "kraken-subdomains",
+  "version": "0.0.1",
+  "description": "Subdomain route support and configuration middleware for krakenJS.",
+  "main": "./lib/subdomain.js",
+  "repository": "git://github.com/krakenjs/express-enrouten.git",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "keywords": [
+    "expressjs",
+    "node",
+    "js",
+    "javascript",
+    "routing",
+    "subdomain",
+    "krakenjs"
+  ],
+  "author": "Andrew Apperley <andrew.apperley@publicis.ca>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ]
+}
