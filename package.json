@@ -1,9 +1,9 @@
 {
   "name": "kraken-subdomains",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Subdomain route support and configuration middleware for krakenJS.",
   "main": "./lib/subdomain.js",
-  "repository": "git://github.com/krakenjs/express-enrouten.git",
+  "repository": "git://github.com/andrewapperley/kraken-subdomains.git",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },

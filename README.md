@@ -1,7 +1,7 @@
 kraken-subdomains
 ==================
 
-[![NPM version](https://badge.fury.io/js/express-enrouten.png)](http://badge.fury.io/js/express-enrouten)  
+[![npm version](https://badge.fury.io/js/kraken-subdomains.svg)](http://badge.fury.io/js/kraken-subdomains)
 
 Subdomain route support and configuration middleware for krakenJS `>= v0.1.0`.
 
